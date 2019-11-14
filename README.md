@@ -42,8 +42,5 @@ Some children travelled only with a nanny, therefore parch=0 for them.
 
 
 # Data analysis
-1- Descritive statistical analysis for features and target variable
-2- univariate data visilization between target variable and features
-3- buiding predictive modeling using classification models like logistics regression , decision tree , random forest ...etc
-4- evaluate the best prediction model to use
+ Descritive statistical analysis for features and target variable                                                                univariate data visilization between target variable and features                                                                  buiding predictive modeling using classification models like logistics regression , decision tree , random forest ...etc         evaluate the best prediction model to use
 
